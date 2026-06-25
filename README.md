@@ -240,5 +240,5 @@ O backend atende aos requisitos da atividade da seguinte forma:
 Esse workflow simula um processo automatizado de auditoria SSL/TLS, desde a coleta de dados até a entrega do relatório final ao usuário.
 
 ### Utilização de IA
-Além do uso solicitado para a própria finalidade do projeto, também utilizamos Inteligência Artificial para nos ajudar a entender o funcionamento do N8N, visto que nunca tivemos contato com a ferramenta até o momento da execução da presente atividade. Utilizamos o Gemini dentro do projeto, por conta da melhor utilização da API, mas para suporte utilizamos o Chat GPT. Além de gerar imagens para esta documentação pelo ChatGPT, pedimos pedimos para ele formatar esta documentação em Markdown. Os Prompts utilizados estão anexados, em PDF.
+Além do uso solicitado para a própria finalidade do projeto, também utilizamos Inteligência Artificial para nos ajudar a entender o funcionamento do N8N, visto que nunca tivemos contato com a ferramenta até o momento da execução da presente atividade. Utilizamos o Gemini dentro do projeto, por conta da melhor utilização da API, mas para suporte utilizamos o Chat GPT. Além de gerar a imagem para esta documentação pelo ChatGPT, pedimos pedimos para essa IA formatar esta documentação em Markdown. Os Prompts utilizados estão anexados, em PDF.
 
